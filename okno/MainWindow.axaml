@@ -8,5 +8,5 @@
         Width="500" Height="300"
         WindowStartupLocation="CenterScreen"
         WindowState="Maximized">
-    Welcome to Avalonia!
+    Hello World c:
 </Window>
