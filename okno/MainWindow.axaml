@@ -8,5 +8,5 @@
         Width="500" Height="300"
         WindowStartupLocation="CenterScreen"
         WindowState="Maximized">
-    <TextBlock Text="Hello World c:"/>
+    <TextBlock FontSize="32" Text="Hello World c:"/>
 </Window>
